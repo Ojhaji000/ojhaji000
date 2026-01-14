@@ -1,0 +1,39 @@
+﻿Harish Ojha  
+Software Engineer  
+Location:Pune, Maharashtra | Contact no: 6265504622 | mail: harish.ojha.456@gmail.com  
+GitHub: https://github.com/Ojhaji000 | Portfolio: https://ojhaji000.github.io/portfolioWeb/  
+  
+Summary  
+Software Engineer with experience in computational geometry and CAD customization. Skilled in C# and transitioning core geometric concepts to modern C++. Strong analytical skills with a focus on correctness, maintainable design, and performance optimization. Hands-on exposure to CAD/CAE environments and geometric modelling, and research oriented mindset.  
+  
+Technical Skills  
+- Programming: C#, C++, .NET, Logical Reasoning, DSA  
+- Mathematics: Linear Algebra, Affine Transformations, Computational Geometry  
+- Visualization / CAD: CAD customization, geometric modeling concepts, Revit API  
+- Engineering Practices: Object-Oriented Design, Design Patterns, Problem Solving, Code Refactoring, debugging  
+- Tools: Visual Studio, VS Code, Git, CMake, Windows SubSystem for Linux(WSL)  
+- Other: Excellent communication skills, team player
+  
+Professional Experience  
+Company: CCTech | Title: Member of Technical Staff | From: Jan 2024, To: Jun 2025  
+- Developed CAD-related software features in Revit using C#.  
+- Applied computational geometry and vector mathematics for rule-based CAD modifications.  
+- Collaborated with senior engineers to deliver maintainable, standards-compliant implementations.  
+- Exposure to engineering software development practices in CAD/CAE environments.  
+  
+Company: Cognizant | Title: Programmer Analyst Trainee| From:Jun 2022, To:Mar 2023  
+- Trained in .NET application development and debugging.  
+- Contributed to feature enhancements and maintenance tasks.  
+- Built foundational understanding of enterprise software development practices.  
+  
+Projects  
+Line–Triangle Intersection (C++)  
+- Implemented algorithms for intersections in 3D space using computational geometry.  
+- Validated correctness and numerical stability with desmo3D visualization.  
+Affine Transformations Pipeline (C#)  
+- Designed 2D affine transformations (translation, rotation) using homogeneous coordinates.  
+- Built reusable transformation pipeline with matrix composition.  
+  
+Education  
+B.Tech – Mechanical Engineering  
+College: Shri Shankaracharya Technical Campus, Bhilai | From: July 2018 , To:June 2022 | Result: 78%
