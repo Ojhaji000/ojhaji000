@@ -9,8 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything
 - 📫 How to reach me: mail me at harish.ojha.456@gmail.com
-- My resume : [click here](https://github.com/Ojhaji000/ojhaji000/blob/main/resume)
 - Portfolio Website: [click here](https://ojhaji000.github.io/portfolioWeb/)
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
